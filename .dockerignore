@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+.docs-drive-data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+.env
+.env.*
